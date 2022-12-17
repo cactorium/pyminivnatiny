@@ -1,0 +1,10 @@
+[project]
+name = "minivnatiny"
+version = "0.0.1"
+description = "Library to interface directly with the MiniVNA Tiny"
+readme = "README.md"
+
+dependencies = [
+    "scikit-rf ~= 0.24.1"
+    "numpy ~= 1.21"
+]
