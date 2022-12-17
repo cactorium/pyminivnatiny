@@ -1,3 +1,4 @@
+import serial
 import numpy as np
 
 # TODO add __enter__ and __exit__ methods
